@@ -10,13 +10,13 @@
         {"id": 1, "nome": "hospede3", "telefone": "33333333333", "email": "email3", "cpf": "33333333333", "estado":"estado3", "cidade":"cidade3", "cep": "33333-333", "bairro": "bairro3", "logradouro": "logradouro3", "numero": "3", "complemento": "", "genero": "masc", "dataNasc": "07/07/2007"}
     ],
     "reservas": [
-        {"id": 1, "dataChegada": "12/01/2004", "dataSaída": "15/01/2004", "idHospede": 1},
-        {"id": 2, "dataChegada": "10/04/1998", "dataSaída": "20/04/1998", "idHospede": 1},
-        {"id": 3, "dataChegada": "30/12/2024", "dataSaída": "03/01/2024", "idHospede": 2}
+        {"id": 1, "dataChegada": "12/01/2004", "dataSaida": "15/01/2004", "idHospede": 1},
+        {"id": 2, "dataChegada": "10/04/1998", "dataSaida": "20/04/1998", "idHospede": 1},
+        {"id": 3, "dataChegada": "30/12/2024", "dataSaida": "03/01/2024", "idHospede": 2}
     ],
     "hospedagens": [
-        {"id": 1, "checkIn": "10/06/2024", "checkOut": "15/06/2024", "idHospede": 1, "adultos": 2, "crianças": 2, "idQuartos": "1", "idServicos": "1", "idItens": "1"},
-        {"id": 2, "checkIn": "13/08/2023", "checkOut": "16/08/2023", "idHospede": 1, "adultos": 3, "crianças": 0, "idQuartos": "1", "idServicos": "1", "idItens": "1"},
-        {"id": 3, "checkIn": "21/09/2023", "checkOut": "27/09/2023", "idHospede": 2, "adultos": 1, "crianças": 2, "idQuartos": "2", "idServicos": "2", "idItens": "2"}
+        {"id": 1, "checkIn": "10/06/2024", "checkOut": "15/06/2024", "idHospede": 1, "adultos": 2, "criancas": 2, "idQuartos": "1", "idServicos": "1", "idItens": "1"},
+        {"id": 2, "checkIn": "13/08/2023", "checkOut": "16/08/2023", "idHospede": 1, "adultos": 3, "criancas": 0, "idQuartos": "1", "idServicos": "1", "idItens": "1"},
+        {"id": 3, "checkIn": "21/09/2023", "checkOut": "27/09/2023", "idHospede": 2, "adultos": 1, "criancas": 2, "idQuartos": "2", "idServicos": "2", "idItens": "2"}
     ]
 }

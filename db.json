@@ -1,8 +1,8 @@
 {
   "quartos": [
-      {"id":1, "situação": "Disponivel", "numero": 71, "idTipoDeQuarto": 2},
-      {"id":2, "situação": "Requer manutenção", "numero": 22, "idTipoDeQuarto": 1},
-      {"id":3, "situação": "Em manutenção", "numero": 139, "idTipoDeQuarto": 2}
+      {"id":1, "situacao": "Disponivel", "numero": 71, "idTipoDeQuarto": 2},
+      {"id":2, "situacao": "Requer manutenção", "numero": 22, "idTipoDeQuarto": 1},
+      {"id":3, "situacao": "Em manutenção", "numero": 139, "idTipoDeQuarto": 2}
     ],
     "hospedes": [
         {"id": 1, "nome": "hospede1", "telefone": "11111111111", "email": "email1", "cpf": "111111111", "estado": "estado1", "cidade":"cidade1", "cep": "11111-111", "bairro": "bairro1", "logradouro": "logradouro1", "numero": "1", "complemento":"", "genero": "masc", "dataNasc": "15/02/2000"},
